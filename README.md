@@ -4,4 +4,4 @@
 
 #git komutlari
 1.git init
---1. git add filename
+..*1. git add filename
